@@ -35,6 +35,10 @@
     background: #3598db;
 }
 
+ #main-content {
+    padding: 0px;
+  }
+
 #friendsApp.km-flat,
 #friendsApp.km-flat .km-navbar,
 #friendsApp.km-flat .km-content {
