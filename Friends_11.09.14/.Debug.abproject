@@ -1,0 +1,7 @@
+{
+  "CorePlugins": [
+    "com.rjfun.cordova.plugin.admob@1.1",
+    "de.appplant.cordova.plugin.email-composer@0.8.2dev",
+    "org.apache.cordova.splashscreen"
+  ]
+}

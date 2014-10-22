@@ -5,49 +5,36 @@
   "AppIdentifier": "com.telerik.Friends110914",
   "DisplayName": "Friends_11.09.14",
   "Author": "",
-  "Description": "",
+  "Description": "Friends_11.09.14",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
   "WP8Publisher": "",
   "WP8Capabilities": [],
   "WP8Requirements": [],
-  "WP8PublisherID": "",
-  "WP8ProductID": "",
+  "WP8PublisherID": "{84445b5f-e79d-4f89-9fc4-513cae2219a2}",
+  "WP8ProductID": "{e56b2759-a51e-47e7-8a30-e0fc9716de52}",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "3.5.0",
   "CorePlugins": [
-    "org.apache.cordova.battery-status",
-    "org.apache.cordova.camera",
-    "org.apache.cordova.media-capture",
-    "org.apache.cordova.console",
-    "org.apache.cordova.contacts",
-    "org.apache.cordova.device",
-    "org.apache.cordova.device-motion",
-    "org.apache.cordova.device-orientation",
-    "org.apache.cordova.file",
-    "org.apache.cordova.file-transfer",
-    "org.apache.cordova.geolocation",
-    "org.apache.cordova.globalization",
-    "org.apache.cordova.inappbrowser",
-    "org.apache.cordova.keyboard",
-    "org.apache.cordova.media",
-    "org.apache.cordova.network-information",
-    "org.apache.cordova.dialogs",
-    "org.apache.cordova.splashscreen",
-    "org.apache.cordova.vibration",
-    "com.telerik.plugin.eqatecanalytics",
-    "com.telerik.feedback",
-    "com.telerik.mobiletesting"
+    "nl.x-services.plugins.actionsheet@1.1.1",
+    "com.rjfun.cordova.plugin.admob@1.1",
+    "com.amazon.aws@1.0.2",
+    "de.appplant.cordova.plugin.email-composer@0.8.2dev",
+    "org.apache.cordova.splashscreen"
   ],
   "CordovaPluginVariables": {
+    "com.amazon.aws": {
+      "ACCESS_KEY": "",
+      "SECRET_KEY": ""
+    },
     "com.telerik.mobiletesting": {
-        "IOS_APP_URL": "friends"
+      "IOS_APP_URL": "friends"
     }
   },
   "AndroidPermissions": [
