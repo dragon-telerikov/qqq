@@ -1,7 +1,7 @@
 {
-  "CorePlugins": [
-    "nl.x-services.plugins.actionsheet@1.1.1",
-    "com.amazon.aws@1.0.2",
-    "org.apache.cordova.splashscreen"
-  ]
+  "CordovaPluginVariables": {
+    "com.telerik.mobiletesting": {
+      "IOS_APP_URL": "friends"
+    }
+  }
 }
