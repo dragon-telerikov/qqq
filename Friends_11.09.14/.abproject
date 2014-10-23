@@ -22,8 +22,8 @@
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "3.5.0",
   "CorePlugins": [
-    "com.amazon.aws@1.0.2",
-    "com.rjfun.cordova.plugin.admob@1.1",
+    "com.phonegap.plugins.barcodescanner",
+    "com.phonegap.plugins.PushPlugin",
     "de.appplant.cordova.plugin.email-composer@0.8.2dev",
     "org.apache.cordova.splashscreen"
   ],
