@@ -22,9 +22,8 @@
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "3.5.0",
   "CorePlugins": [
-    "nl.x-services.plugins.actionsheet@1.1.1",
-    "com.rjfun.cordova.plugin.admob@1.1",
     "com.amazon.aws@1.0.2",
+    "com.rjfun.cordova.plugin.admob@1.1",
     "de.appplant.cordova.plugin.email-composer@0.8.2dev",
     "org.apache.cordova.splashscreen"
   ],
